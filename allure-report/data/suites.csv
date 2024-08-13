@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 09 13:28:28 CAT 2024","Fri Aug 09 13:28:37 CAT 2024","8352","","TS_UltimateQA_Navigation_JUnit","","TS_UltimateQA_Navigation_JUnit","tc_bag_navigation_top_menu_home","TC - Bag - Navigation - Top - Menu - Home repetition 1 of 1",""
